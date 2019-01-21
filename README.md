@@ -1,1 +1,2 @@
-# zero-k for Manjaro / Arch Linux
+# Zero-K
+Zero-K for Manjaro / Arch Linux 
